@@ -2,7 +2,6 @@ using Microsoft.AspNetCore.Mvc;
 using ClimateMonitor.Services;
 using ClimateMonitor.Services.Models;
 using Microsoft.Extensions.Primitives;
-using ClimateMonitor.DTO;
 
 namespace ClimateMonitor.Api.Controllers;
 
